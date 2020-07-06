@@ -1,11 +1,11 @@
 # Face and gestures Recognition
 
--*Author -- Nikhil Khairnar  *
+-*Author:Nikhil Khairnar  *
 
 ## steps
   -* The project comprises of two main python file   *
-        -*face.py --- to recognition *
-        -*faces-train.py -- to run incase you added new dataset *
+        -*face.py:  to recognition *
+        -*faces-train.py:  to run incase you added new dataset *
 
 
 ## environment
