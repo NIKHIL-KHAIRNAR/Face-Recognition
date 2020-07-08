@@ -1,6 +1,6 @@
 # Face and gestures Recognition
 
--*Author:Nikhil Khairnar*
+- *Author:Nikhil Khairnar*
 
 ## steps
   - *The project comprises of two main python file*
